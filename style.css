@@ -1,3 +1,7 @@
 #weather_header{
     text-decoration-color: aqua;
 }
+
+td {
+    font-size: 24px;
+}
